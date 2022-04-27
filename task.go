@@ -1,4 +1,4 @@
-package worker
+package pworker
 
 type Task interface {
 	Run()
